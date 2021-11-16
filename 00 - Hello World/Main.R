@@ -4,6 +4,7 @@
 > "Hello World"
 [1] "Hello World"
 
+#-------------------------|----------------------------------------------------------------------------------------------------------------------#
 # Elemen ekspresi         |                Keterangan                                                                                            #
 #-------------------------|----------------------------------------------------------------------------------------------------------------------#
 #       >                 |  Prompt dari R, adalah tanda dari R untuk menerima input perintah                                                    #
@@ -12,3 +13,4 @@
 #                         |                                                                                                                      #             
 #  "Hello Wold"           |  Untuk pengerjaan ini, output hanya memiliki satu item, yaitu teks "Hello World", jadi posisinya otomatis adalah 1.  #
 #                         |  Menampikan tesk Hello World                                                                                         #
+#-------------------------|----------------------------------------------------------------------------------------------------------------------#
