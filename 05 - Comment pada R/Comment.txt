@@ -1,0 +1,11 @@
+Bagaimanakah caranya membuat sebuah comment? Baiklah, membuat sebuah comment sangat mudah. Caranya adalah dengan menuliskan tanda pagar (#) yang kemudian diikuti dengan tulisan/keterangan apapun.
+
+Berikut adalah contoh perhitungan matematika yang diikuti oleh sebuah comment
+
+2 + 2 #Ini adalah baris komentar
+Ketikkan contoh tersebut di Code Editor dan jika berjalan dengan lancar maka kamu akan mendapatkan hasil berikut
+
+> 2 + 2 #Ini adalah baris komentar
+ [1] 4
+
+ Perhatikan bahwa comment "Ini adalah baris komentar" tidak dieksekusi oleh interpreter R dan tentunya tidak akan menghasilkan apapun. Sementara itu, perhitungan "2 + 2" menghasilkan output berupa angka 4.

@@ -1,0 +1,6 @@
+santi_berat_kg <- 54.5  = Ini sama tujuannya dengan perintah di atas, memasukkan data berupa angka 54.5 ke dalam variable bernama santi_berat_kg.
+                          Informasi variable tersebut adalah berat Santi 55 kg.
+budi_berat_kg           = Menampilkan isi data dari nama variable budi_berat_kg.
+[1] 68                  = Menampilkan angka 68 – yang merupakan isi dari variable budi_berat_kg.
+santi_berat_kg          = Menampilkan isi data dari nama variable santi_berat_kg.
+[1] 54.5                = Menampilkan angka 54.5 – yang merupakan isi dari variable santi_berat_kg.

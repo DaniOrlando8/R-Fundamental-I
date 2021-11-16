@@ -1,0 +1,11 @@
+Kesimpulan
+
+Selamat, kamu telah menyelesaikan bab pertama dengan baik mengenai apa itu R, hubungannya dengan data science, dan mengapa data scientist menggunakannya sebagai kakas utama.
+
+Selain itu, kamu juga telah menguasai keterampilan dasar bahasa pemrograman R dengan beberapa praktik berikut:
+
+Mengolah dan menampilkan data dengan perintah print ataupun mengetikkan langsung data tersebut.
+Melakukan perhitungan matematika.
+Memberikan komentar atau comment untuk memberi penjelasan pada code di R.
+Menyimpan angka, teks dan hasil perhitungan ke dalam variable, sehingga dapat digunakan pada bagian code lain.
+Menjelaskan sifat R yang case sensitive yang membedakan penulisan dengan huruf besar dan/atau huruf kecil.
